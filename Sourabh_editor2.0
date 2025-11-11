@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sourabh Tech Boy Instagram</title>
+  <meta name="description" content="Follow Sourabh Tech Boy on Instagram for latest tech tutorials, tips, tricks, and motivational content.">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Open Graph / Social Sharing -->
+  <meta property="og:title" content="Sourabh Tech Boy Instagram">
+  <meta property="og:description" content="Follow Sourabh Tech Boy on Instagram for latest tech tutorials, tips, tricks, and motivational content.">
+  <meta property="og:image" content="https://sourabhmandoli-glitch.github.io/sourabhtechboy/og-image.png">
+  <meta property="og:url" content="https://sourabhmandoli-glitch.github.io/sourabhtechboy-instagram/">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sourabh Tech Boy Instagram">
+  <meta name="twitter:description" content="Follow Sourabh Tech Boy on Instagram for latest tech tutorials, tips, tricks, and motivational content.">
+  <meta name="twitter:image" content="https://sourabhmandoli-glitch.github.io/sourabhtechboy/og-image.png">
+</head>
+<body style="font-family: Arial, sans-serif; text-align:center; padding:50px; background:#f2f2f2;">
+  
+  <h1>Sourabh Tech Boy</h1>
+  <h2>Follow me on Instagram</h2>
+  <p>Click the button below to visit my Instagram page:</p>
+
+  <a href="https://www.instagram.com/sourabh_editor2.0?igsh=MWFoaXRpaHJtYnR1dQ==" 
+     target="_blank" 
+     style="display:inline-block; padding:15px 30px; background:#E1306C; color:white; text-decoration:none; border-radius:10px; font-size:18px; margin-top:20px;">
+    Visit Instagram
+  </a>
+
+</body>
+</html>
